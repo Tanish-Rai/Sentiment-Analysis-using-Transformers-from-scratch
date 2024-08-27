@@ -22,8 +22,8 @@ This project implements a Transformer-based model for sentiment analysis on Amaz
 
 ## Installation
 
-1. Clone this repository:git clone https://github.com/yourusername/amazon-reviews-transformer.git
-cd amazon-reviews-transformer
+1. Clone this repository
+  
 2. Install the required packages:## Usage
 
  a) Prepare your data:
